@@ -1,0 +1,19 @@
+src/readable/mod.rs
+  s_8ac72db4cd1e3f::t_a8c0129d4322be 70,74-78,98-101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "3ef8d7aea545a2d49f5492d91ea2a05fbf88766e",
+  "prompts": {},
+  "sessions": {
+    "s_8ac72db4cd1e3f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fe9f4f8e0ffeeX5j8VNzX9lKkq",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <guybedford@gmail.com>"
+    }
+  }
+}
