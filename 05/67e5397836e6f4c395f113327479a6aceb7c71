@@ -1,0 +1,23 @@
+src/readable/into_underlying_byte_source.rs
+  s_4e001454bf90f4::t_30e2f365105872 45-46,59-61,77-84
+src/readable/into_underlying_source.rs
+  s_4e001454bf90f4::t_337db4b4dbe8c3 39-41,57-64
+src/writable/into_underlying_sink.rs
+  s_4e001454bf90f4::t_0b7e94a15cc12e 34-36,50-51,62-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0567e5397836e6f4c395f113327479a6aceb7c71",
+  "prompts": {},
+  "sessions": {
+    "s_4e001454bf90f4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fde6888f3ffeedneXnJRXP3L2S",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <guybedford@gmail.com>"
+    }
+  }
+}
