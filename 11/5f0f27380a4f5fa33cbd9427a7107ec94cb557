@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_39500782c19264::t_46130ff58394a9 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "115f0f27380a4f5fa33cbd9427a7107ec94cb557",
+  "prompts": {},
+  "sessions": {
+    "s_39500782c19264": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f77d27979ffeEbf2Lz5s9BkM6J",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Guy Bedford <guybedford@gmail.com>"
+    }
+  }
+}
