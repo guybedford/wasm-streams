@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+* Removed the `cdylib` crate type. The crate is only consumed as a Rust library, and the extra shared-library link was built for every dependent. Use `cargo rustc --crate-type cdylib` to build a standalone module.
+
 ## v0.6.0 (2026-05-24)
 
 * Updated to Rust edition 2024. The minimum supported Rust version (MSRV) is now 1.88.0. ([#34](https://github.com/MattiasBuelens/wasm-streams/pull/34), [#37](https://github.com/MattiasBuelens/wasm-streams/pull/37))
